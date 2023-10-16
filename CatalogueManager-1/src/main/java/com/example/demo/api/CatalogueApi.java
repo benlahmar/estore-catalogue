@@ -27,7 +27,7 @@ import com.example.demo.exceptions.ElementNotExist;
 import com.example.demo.metier.ICatalogue;
 
 @RestController
-@RequestMapping("api/catalogue")
+//@RequestMapping("api/catalogue")
 public class CatalogueApi {
 
 	@Autowired
